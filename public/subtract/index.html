@@ -39,25 +39,37 @@
 			color: white;
 			display: block;
 		}
+		
+		/* Fade-in animation styles */
+		.fade-in {
+			opacity: 0;
+			transform: translate3d(0, 20px, 0);
+			transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+		}
+		
+		.fade-in.visible {
+			opacity: 1;
+			transform: translate3d(0, 0, 0);
+		}
 	</style>
 </head>
 <body>
 	<div class="view" style="width: 100vw; height: 50vh; background-color: #ECECEC; position: absolute; top: 0; left: 0;">
 		<div class="view-content" style="display: flex; justify-content: center; align-items: center; height: 100%;">
 			<!-- SUBTRACT logo -->
-			<img src="assets/SUBTRACT.svg" alt="SUBTRACT" style="width: auto; height: 150px;">
+			<img src="assets/SUBTRACT.svg" alt="SUBTRACT" class="fade-in" data-fade-delay="100" style="width: auto; height: 150px;">
 		</div>
 	</div>
 	<div class="view" style="width: 100vw; height: 50vh; background-color: #FFFFFF; position: absolute; top: 50%; left: 0;">
 		<div class="view-content" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 50%; padding-top: 5vh;">
 			<!-- a centered title with SF Pro Condensed Ultralight font -->
 			<div class="text" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-				<text style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Can one have a life without <span style="text-decoration: line-through; opacity: 0.5;">bullshit</span> subscriptions?</text>
-				<text style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Spend your money on what matters</text>
-				<text style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0; padding-top: 5vh;">Enter the wait list</text>
+				<text class="fade-in" data-fade-delay="800" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Can one have a life without <span style="text-decoration: line-through; opacity: 0.5;">bullshit</span> subscriptions?</text>
+				<text class="fade-in" data-fade-delay="1000" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Spend your money on what matters</text>
+				<text class="fade-in" data-fade-delay="1200" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0; padding-top: 5vh;">Enter the wait list</text>
 			</div>
 			<!-- a centered subtitle with SF Pro Condensed Ultralight font -->
-			 <div class="button" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top: 5vh;">
+			 <div class="button fade-in" data-fade-delay="1500" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top: 5vh;">
 				<div style="display: flex; gap: 10px;">
 					<input id="emailInput" type="email" name="email" placeholder="Enter your email" style="background-color: #ECECEC; border: none; color: #000000; padding: 10px 20px; width: 200px;">
 					<button id="submitButton" style="background-color: #323232; color: #ECECEC; border: none; padding: 10px 20px; text-align: center; margin: 0; cursor: pointer;">SUBMIT</button>
@@ -69,12 +81,26 @@
 		<div class="view-content" style="position: absolute; bottom: 0; right: 0; display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 15px; padding: 10px;">
 			<!-- <text style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer;">What the f*ck are you talking about?</text> -->
 			 <!-- a link to the about me page -->
-			 <a href="../index.html" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">About Me</a>
-			<a href="terms.html" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">Terms and Conditions</a>
+			 <a href="../index.html" class="fade-in" data-fade-delay="1700" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">About Me</a>
+			<a href="terms.html" class="fade-in" data-fade-delay="1900" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">Terms and Conditions</a>
 		</div>	
 	</div>
 	
 	<script>
+		// Fade-in animation on page load
+		document.addEventListener('DOMContentLoaded', function() {
+			const fadeElements = document.querySelectorAll('.fade-in');
+			
+			fadeElements.forEach((element) => {
+				// Get delay from data attribute or default to 0
+				const delay = parseInt(element.getAttribute('data-fade-delay')) || 0;
+				
+				setTimeout(() => {
+					element.classList.add('visible');
+				}, delay);
+			});
+		});
+		
 		document.getElementById('submitButton').addEventListener('click', async function() {
 			const emailInput = document.getElementById('emailInput');
 			const feedback = document.getElementById('feedback');
