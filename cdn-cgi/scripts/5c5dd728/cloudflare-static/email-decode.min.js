@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<!-- Last Published: Wed Jun 15 2022 13:10:57 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.thiagoimai.com" data-wf-page="61ffb7e3a4bdb56f0097a1a0" data-wf-site="61ffb7e3a4bdb5613297a19f">
+    <head>
+        <meta charset="utf-8" />
+        <title>Thiago Imai | Developer and photographer</title>
+        <meta content="Hi there, I am Thiago Imai, a Digital Designer and Art Director from Lima, Peru. Currently working at Build in Amsterdam, and as freelance helping brands and businesses become unique." name="description" />
+        <meta content="Thiago Imai | Digital Designer and Art Director" property="og:title" />
+        <meta content="Hi there, I am Thiago Imai, a Digital Designer and Art Director from Lima, Peru. Currently working at Build in Amsterdam, and as freelance helping brands and businesses become unique." property="og:description" />
+        <meta content="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/625728f1375cb918e68c1e09_open-graph.jpg" property="og:image" />
+        <meta content="Thiago Imai | Digital Designer and Art Director" property="twitter:title" />
+        <meta content="Hi there, I am Thiago Imai, a Digital Designer and Art Director from Lima, Peru. Currently working at Build in Amsterdam, and as freelance helping brands and businesses become unique." property="twitter:description" />
+        <meta content="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/625728f1375cb918e68c1e09_open-graph.jpg" property="twitter:image" />
+        <meta property="og:type" content="website" />
+        <meta content="summary_large_image" name="twitter:card" />
+        <meta content="width=device-width, initial-scale=1" name="viewport" />
+        <link href="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/css/martin-briceno.webflow.cc7e41449.min.css" rel="stylesheet" type="text/css" />
+        <!--[if lt IE 9]>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script>
+		<![endif]-->
+        <script type="text/javascript">
+            ! function(o, c) {
+                var n = c.documentElement,
+                    t = " w-mod-";
+                n.className += t + "js", ("ontouchstart" in o || o.DocumentTouch && c instanceof DocumentTouch) && (n.className += t + "touch")
+            }(window, document);
+        </script>
+        <link href="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/625721851fd04d35a0cd3305_Ellipse%201.png" rel="shortcut icon" type="image/x-icon" />
+        <link href="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/625721819beae88f657d4c47_Ellipse%202.png" rel="apple-touch-icon" />
+        <style>
+            body .transition {
+                display: block
+            }
+
+            .w-editor .transition {
+                display: none;
+            }
+
+            .no-scroll-transition {
+                overflow: hidden;
+                position: relative;
+            }
+
+            body:hover .cursor {
+                opacity: 100%;
+            }
+
+            .cursor {
+                pointer-events: none;
+            }
+
+            ::selection {
+                color: #f8f8f8;
+                background: #1d1d1d;
+            }
+        </style>
+        <meta name="google-site-verification" content="ILBZMYMZM8i25ADpaMabWhAZ9MkOdskj6nh2p9_UlmQ" />
+    </head>
+    <body>
+        <div class="general__code w-embed">
+            <style>
+                .cursor {
+                    pointer-events: none;
+                }
+
+                a {
+                    color: inherit;
+                    text-decoration: none;
+                }
+
+                * {
+                    -webkit-font-smoothing: antialiased;
+                    -moz-osx-font-smoothing: grayscale;
+                }
+            </style>
+        </div>
+        <div class="cursor">
+            <div class="cursor__dot">
+                <div class="cursor__text--mail">EMAIL</div>
+                <div class="cursor__text--case">PHOTOGRAPHY</div>
+            </div>
+        </div>
+        <div class="transition">
+            <div class="transition-trigger"></div>
+            <div class="transition-content">
+                <!-- <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/6252902e9bdbc990a40b37a6_MB-white.svg" loading="lazy" alt="Martin Briceno" class="transition-logo" /> -->
+            </div>
+        </div>
+        <div class="page__wrapper">
+            <section id="top" class="section is--hero wf-section">
+                <div class="container less--padding is--hero">
+                    <div class="hero__grid__row">
+                        <a id="w-node-bf78fc9c-735e-02d8-3ae1-52011af45b1e-0097a1a0" data-w-id="bf78fc9c-735e-02d8-3ae1-52011af45b1e" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" href="/" aria-current="page" class="nav__logo w-inline-block w--current">
+                            <div id="w-node-_8e7e63b9-1b7e-a6bc-ddac-807edb92ba1a-0097a1a0" data-w-id="8e7e63b9-1b7e-a6bc-ddac-807edb92ba1a" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="nav__logo__img">Thiago Imai </div>
+                            <!-- <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/6252902e9bdbc990a40b37a6_MB-white.svg" loading="lazy" alt="Martin Briceno" class="nav__logo__img" /> -->
+                        </a>
+                        <div id="w-node-_8e7e63b9-1b7e-a6bc-ddac-807edb92ba1a-0097a1a0" data-w-id="8e7e63b9-1b7e-a6bc-ddac-807edb92ba1a" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="nav__small__text">DEVELOPER / PHOTOGRAPHER <br />PORTFOLIO  / 2020 — 2022 </div>
+                        <div id="w-node-_407d2c11-ebb9-504f-eaae-76adffc9779b-0097a1a0" data-w-id="407d2c11-ebb9-504f-eaae-76adffc9779b" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="nav__small__text">AVAILABLE FOR FREELANCE <br />PROJECTS RIGHT AWAY </div>
+                        <a href="mailto:thiago.imai@outlook.com" id="w-node-_688609b3-1294-0162-2b8f-cfd79b90f6ef-0097a1a0" data-w-id="688609b3-1294-0162-2b8f-cfd79b90f6ef" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button is--white w-inline-block">
+                            <div class="button__mask">
+                                <div class="button__content is--nav">
+                                    <div class="button__text__wrapper">
+                                        <div class="button__text is--top">Let&#x27;s talk</div>
+                                        <div class="button__text">Let&#x27;s talk</div>
+                                    </div>
+                                </div>
+                                <div class="button__bg"></div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="hero__grid__row is__hero__text">
+                        <div id="w-node-e3f00ec3-d0af-0c55-aa2a-d31fbbae2222-0097a1a0" class="hero__text__wrapper">
+                            <h1 data-w-id="c7a912a8-83e6-784c-a2ff-cdfeecbfcd60" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero__heading">Developer and Photographer currently based in Curitiba - Brasil</h1>
+                            <p data-w-id="ae043aae-55f2-4eaa-8463-8fba179d3065" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero__p">Hello, I am Thiago Imai a Developer from Nagano, Japan. Currently working as a React Native Developer and Project Manager.</p>
+                            <a href="#about" data-w-id="f901cf0d-3867-88df-7b4e-da1c3a21f2fd" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button is--white hide--mobile w-inline-block">
+                                <div class="button__mask">
+                                    <div class="button__content">
+                                        <div class="button__text__wrapper">
+                                            <div class="button__text is--top">Scroll to discover</div>
+                                            <div class="button__text">Scroll to discover</div>
+                                        </div>
+                                        <div class="button__arrow__wrapper">
+                                            <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/62529d4450c45e38a0bda6a9_arrow-down-white.svg" loading="lazy" alt="" class="button__arrow is--top" />
+                                            <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/62529d4450c45e38a0bda6a9_arrow-down-white.svg" loading="lazy" alt="" class="button__arrow" />
+                                        </div>
+                                    </div>
+                                    <div class="button__bg"></div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="hero__grid__row is__hero__btm">
+                        <div id="w-node-_1568ebb8-5992-e06f-243e-a62c2980bdf7-0097a1a0" data-w-id="1568ebb8-5992-e06f-243e-a62c2980bdf7" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero__socials__wrapper">
+                            <a id="w-node-c7f833dc-26d1-5d67-823c-d0d62c3a1905-0097a1a0" href="https://gitlab.com/tigulima" target="_blank" class="text__link">gitlab</a>
+                            <a id="w-node-b64b4a32-875e-6bb4-40f6-2c19ef82141a-0097a1a0" href="https://www.linkedin.com/in/tigulima/" target="_blank" class="text__link">linkedin</a>
+                            <a id="w-node-e54b5e97-d94e-ca63-bfc1-1b59c6a6c81f-0097a1a0" href="https://www.instagram.com/thiago.imai.l/" target="_blank" class="text__link">instagram</a>
+                        </div>
+                        <div id="w-node-_30a330bc-833a-e1ef-15a1-ffcbfde11b94-0097a1a0" data-w-id="30a330bc-833a-e1ef-15a1-ffcbfde11b94" style="opacity:0;-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="hero__coords">N  - 25°46&#x42;58.23<br />E  - 49°23&#x30;53.97 </div>
+                        <div id="w-node-c131efdc-5258-a8ff-d619-92cf4741eff1-0097a1a0" data-w-id="c131efdc-5258-a8ff-d619-92cf4741eff1" style="-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="hero__copyright">© 2022</div>
+                    </div>
+                </div>
+            </section>
+            <section id="about" class="section padding__top-bottom wf-section">
+                <div class="container less--padding">
+                    <div class="about__grid is--top">
+                        <div id="w-node-_3283ef35-7588-8447-c6ed-a0595a317a20-0097a1a0" class="reveal hide--on--mobile">ABOUT</div>
+                        <p id="w-node-_00726e54-85d2-2bea-630d-f0a172172c83-0097a1a0" class="about__large__text reveal">I am passionate about everything that has to do with Development and Photography. I enjoy working with agencies and enthusiastic people who want to solve problems through beautiful design and experiences.</p>
+                        <div id="w-node-_2e84cf83-515a-bee9-ae85-9a0b34f46735-0097a1a0" class="about__img__wrapper">
+                            <img src="./assets/profile.jpg" loading="eager" sizes="(max-width: 767px) 100vw, (max-width: 991px) 24vw, 17vw" alt="portrait of Thiago Imai" class="about__img" />
+                        </div>
+                    </div>
+                    <div class="about__grid">
+                        <div id="w-node-_5cc0b060-6967-c6d9-b3d1-70fbc5beb809-0097a1a0" class="about__grid__item">
+                            <h2 id="w-node-_68c1aae8-13dc-55bf-97c1-46d8da534cbb-0097a1a0" class="about__grid__heading reveal">Mobile and Web Design</h2>
+                            <p id="w-node-_0476c4be-cb6a-5ad1-8649-d4e71275c16e-0097a1a0" class="about__grid__p reveal">I always strive to create memorable experiences that are aesthetically appealing, functional and distinctive. Whether it&#x27;s inspiring marketing websites, convincing e-commerce sites or apps that are truly beneficial to users.</p>
+                        </div>
+                        <div id="w-node-d7da28bc-e0b1-f968-3c44-8557ef631a1d-0097a1a0" class="about__grid__item">
+                            <h2 id="w-node-d7da28bc-e0b1-f968-3c44-8557ef631a1e-0097a1a0" class="about__grid__heading reveal">Clean Code</h2>
+                            <p id="w-node-d7da28bc-e0b1-f968-3c44-8557ef631a20-0097a1a0" class="about__grid__p reveal">With my extensive experience in creating everything digital, I&#x27;m able to establish a strong foundation in the choice of algorithms, tools and functionalities to ensure that users perceive the brand and presence in a consistent way.</p>
+                        </div>
+                        <div id="w-node-ad1dfa66-5a0a-c0e7-ff9e-6d640c636ae1-0097a1a0" class="about__grid__item">
+                            <h2 id="w-node-ad1dfa66-5a0a-c0e7-ff9e-6d640c636ae2-0097a1a0" class="about__grid__heading reveal">Clear Goal</h2>
+                            <p id="w-node-ad1dfa66-5a0a-c0e7-ff9e-6d640c636ae4-0097a1a0" class="about__grid__p reveal">By using my expertise as a developer, I make sure that a visual identity can be used to its full extent throughout all touchpoints in an accessible and user-friendly way. Not just timeless, but usable in todays digital world.</p>
+                        </div>
+                        <a href="#slider" id="w-node-fa82fe51-3a15-22a6-f24f-e43a798f1ba3-0097a1a0" class="button is--black is--about reveal w-inline-block">
+                            <div class="button__mask">
+                                <div class="button__content is--black is--centered">
+                                    <div class="button__text__wrapper">
+                                        <div class="button__text is--top">explore my work</div>
+                                        <div class="button__text">explore my work</div>
+                                    </div>
+                                    <div class="button__arrow__wrapper">
+                                        <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/62529b6c12a83709c1254b92_arrow-down.svg" loading="lazy" alt="" class="button__arrow is--top" />
+                                        <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/62529b6c12a83709c1254b92_arrow-down.svg" loading="lazy" alt="" class="button__arrow" />
+                                    </div>
+                                </div>
+                                <div class="button__bg is--black"></div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </section>
+            <section id="slider" class="section padding__top-bottom no--bottom--mobile wf-section">
+                <div class="container is--slider">
+                    <div class="projects home--page">
+                        <div class="project__track w-dyn-list">
+                            <div role="list" class="project__list w-dyn-items">
+                                <div data-w-id="727caa1c-f8b1-8881-275f-942a4cfccc67" role="listitem" class="project__slide w-dyn-item">
+                                    <a href="https://www.instagram.com/thiago.imai.l/" class="project__link w-inline-block"></a>
+                                    <div class="last--slide--bg w-condition-invisible"></div>
+                                    <div class="project__slide__content">
+                                        <div class="project__slide__text">
+                                            <div class="project__slide__text__info">
+                                                <div class="align__project__title">
+                                                    <div>✺ 01 – 05</div>
+                                                    <h3 class="project__heading">The Girl By The Window</h3>
+                                                </div>
+                                                <div class="info__grid">
+                                                    <div id="w-node-ed908c87-96ee-f0f9-5683-2068889a09af-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">LOCATION</div>
+                                                        <div class="w-richtext">
+                                                            <p>IFPR <br />Ivaipora <br />Parana </p>
+                                                        </div>
+                                                    </div>
+                                                    <div id="w-node-_5e09aba3-7cdb-b2e2-195e-41b2810ee64f-0097a1a0" class="project__slide__info__column is--middle">
+                                                        <div class="info__column__heading">PARTICIPATION</div>
+                                                        <p>Heloisa Hruba</p>
+                                                    </div>
+                                                    <div id="w-node-_86eb057d-095c-b618-1a8b-77216d0a0c49-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">YEAR</div>
+                                                        <p>2019</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="project__slide__tags w-dyn-list">
+                                                <div role="list" class="tags__list w-dyn-items">
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">Canon 60D</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">50mm</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">f 1.7</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="project__slide__mobile__img__wrapper">
+                                            <img src="assets/insta1.jpg" loading="lazy" alt="Nest Seekers" class="project__slide__mobile__img" />
+                                        </div>
+                                        <div class="project__slide__img__overlay"></div>
+                                        <img src="assets/insta1.jpg" loading="lazy" alt="Nest Seekers" class="project__slide__bg is--image" />
+                                        <div class="project__slide__bg is--mobile"></div>
+                                    </div>
+                                    <div class="circle__btn__wrapper w-condition-invisible">
+                                        <a href="#" class="circle__button">See more works</a>
+                                    </div>
+                                </div>
+                                <div data-w-id="727caa1c-f8b1-8881-275f-942a4cfccc67" role="listitem" class="project__slide w-dyn-item">
+                                    <a href="https://www.instagram.com/thiago.imai.l/" class="project__link w-inline-block"></a>
+                                    <div class="last--slide--bg w-condition-invisible"></div>
+                                    <div class="project__slide__content">
+                                        <div class="project__slide__text">
+                                            <div class="project__slide__text__info">
+                                                <div class="align__project__title">
+                                                    <div>✺ 02 – 05</div>
+                                                    <h3 class="project__heading">Noisy Summer</h3>
+                                                </div>
+                                                <div class="info__grid">
+                                                    <div id="w-node-ed908c87-96ee-f0f9-5683-2068889a09af-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">LOCATION</div>
+                                                        <div class="w-richtext">
+                                                            <p>IFPR <br />Ivaipora <br />Parana </p>
+                                                        </div>
+                                                    </div>
+                                                    <div id="w-node-_5e09aba3-7cdb-b2e2-195e-41b2810ee64f-0097a1a0" class="project__slide__info__column is--middle">
+                                                        <div class="info__column__heading">PARTICIPATION</div>
+                                                        <p>Heloisa Hruba</p>
+                                                    </div>
+                                                    <div id="w-node-_86eb057d-095c-b618-1a8b-77216d0a0c49-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">YEAR</div>
+                                                        <p>2019</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="project__slide__tags w-dyn-list">
+                                                <div role="list" class="tags__list w-dyn-items">
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">Canon 60D</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">50mm</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">f 7.2</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="project__slide__mobile__img__wrapper">
+                                            <img src="assets/insta2.jpg" loading="lazy" alt="Tais Kahatt" class="project__slide__mobile__img" />
+                                        </div>
+                                        <div class="project__slide__img__overlay"></div>
+                                        <img src="assets/insta2.jpg" loading="lazy" alt="Tais Kahatt" class="project__slide__bg is--image" />
+                                        <div class="project__slide__bg is--mobile"></div>
+                                    </div>
+                                    <div class="circle__btn__wrapper w-condition-invisible">
+                                        <a href="#" class="circle__button">See more works</a>
+                                    </div>
+                                </div>
+                                <div data-w-id="727caa1c-f8b1-8881-275f-942a4cfccc67" role="listitem" class="project__slide w-dyn-item">
+                                    <a href="https://www.instagram.com/thiago.imai.l/" class="project__link w-inline-block"></a>
+                                    <div class="last--slide--bg w-condition-invisible"></div>
+                                    <div class="project__slide__content">
+                                        <div class="project__slide__text">
+                                            <div class="project__slide__text__info">
+                                                <div class="align__project__title">
+                                                    <div>✺ 03 – 05</div>
+                                                    <h3 class="project__heading">Tired but not out</h3>
+                                                </div>
+                                                <div class="info__grid">
+                                                    <div id="w-node-ed908c87-96ee-f0f9-5683-2068889a09af-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">LOCATION</div>
+                                                        <div class="w-richtext">
+                                                            <p>Rodoviaria <br />Ivaipora <br />Parana </p>
+                                                        </div>
+                                                    </div>
+                                                    <div id="w-node-_5e09aba3-7cdb-b2e2-195e-41b2810ee64f-0097a1a0" class="project__slide__info__column is--middle">
+                                                        <div class="info__column__heading">PARTICIPATION</div>
+                                                        <p>Bruna Rodrigues</p>
+                                                    </div>
+                                                    <div id="w-node-_86eb057d-095c-b618-1a8b-77216d0a0c49-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">YEAR</div>
+                                                        <p>2018</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="project__slide__tags w-dyn-list">
+                                                <div role="list" class="tags__list w-dyn-items">
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">Canon 60D</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">18 - 55mm</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">f 4.2</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="project__slide__mobile__img__wrapper">
+                                            <img src="assets/insta3.jpg" loading="lazy" alt="Bang and Olufsen" class="project__slide__mobile__img" />
+                                        </div>
+                                        <div class="project__slide__img__overlay"></div>
+                                        <img src="assets/insta3.jpg" loading="lazy" alt="Bang and Olufsen" class="project__slide__bg is--image" />
+                                        <div class="project__slide__bg is--mobile"></div>
+                                    </div>
+                                    <div class="circle__btn__wrapper w-condition-invisible">
+                                        <a href="#" class="circle__button">See more works</a>
+                                    </div>
+                                </div>
+                                <div data-w-id="727caa1c-f8b1-8881-275f-942a4cfccc67" role="listitem" class="project__slide w-dyn-item">
+                                    <a href="https://www.instagram.com/thiago.imai.l/" class="project__link w-inline-block"></a>
+                                    <div class="last--slide--bg w-condition-invisible"></div>
+                                    <div class="project__slide__content">
+                                        <div class="project__slide__text">
+                                            <div class="project__slide__text__info">
+                                                <div class="align__project__title">
+                                                    <div>✺ 04 – 05</div>
+                                                    <h3 class="project__heading">Feel</h3>
+                                                </div>
+                                                <div class="info__grid">
+                                                    <div id="w-node-ed908c87-96ee-f0f9-5683-2068889a09af-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">LOCATION</div>
+                                                        <div class="w-richtext">
+                                                            <p>Praca Espanha <br />Ivaipora <br />Parana </p>
+                                                        </div>
+                                                    </div>
+                                                    <div id="w-node-_5e09aba3-7cdb-b2e2-195e-41b2810ee64f-0097a1a0" class="project__slide__info__column is--middle">
+                                                        <div class="info__column__heading">PARTICIPATION</div>
+                                                        <p>Bruna Rodrigues</p>
+                                                    </div>
+                                                    <div id="w-node-_86eb057d-095c-b618-1a8b-77216d0a0c49-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">YEAR</div>
+                                                        <p>2018</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="project__slide__tags w-dyn-list">
+                                                <div role="list" class="tags__list w-dyn-items">
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">Canon 60D</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">55 - 250mm</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">f 7.2</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="project__slide__mobile__img__wrapper">
+                                            <img src="assets/insta4.jpg" loading="lazy" alt="Nshpd® — A Tribute to the Baroque Era" class="project__slide__mobile__img" />
+                                        </div>
+                                        <div class="project__slide__img__overlay"></div>
+                                        <img src="assets/insta4.jpg" loading="lazy" alt="Nshpd® — A Tribute to the Baroque Era" class="project__slide__bg is--image" />
+                                        <div class="project__slide__bg is--mobile"></div>
+                                    </div>
+                                    <div class="circle__btn__wrapper w-condition-invisible">
+                                        <a href="#" class="circle__button">See more works</a>
+                                    </div>
+                                </div>
+                                <div data-w-id="727caa1c-f8b1-8881-275f-942a4cfccc67" role="listitem" class="project__slide w-dyn-item">
+                                    <a href="https://www.instagram.com/thiago.imai.l/" class="project__link w-inline-block"></a>
+                                    <div class="last--slide--bg w-condition-invisible"></div>
+                                    <div class="project__slide__content">
+                                        <div class="project__slide__text">
+                                            <div class="project__slide__text__info">
+                                                <div class="align__project__title">
+                                                    <div>✺ 05 – 05</div>
+                                                    <h3 class="project__heading">Quack!</h3>
+                                                </div>
+                                                <div class="info__grid">
+                                                    <div id="w-node-ed908c87-96ee-f0f9-5683-2068889a09af-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">LOCATION</div>
+                                                        <div class="w-richtext">
+                                                            <p>Parque das Aves <br />Foz do Iguacu <br />Parana </p>
+                                                        </div>
+                                                    </div>
+                                                    <div id="w-node-_5e09aba3-7cdb-b2e2-195e-41b2810ee64f-0097a1a0" class="project__slide__info__column is--middle">
+                                                        <div class="info__column__heading">PARTICIPATION</div>
+                                                        <p>Chuck the Duck</p>
+                                                    </div>
+                                                    <div id="w-node-_86eb057d-095c-b618-1a8b-77216d0a0c49-0097a1a0" class="project__slide__info__column">
+                                                        <div class="info__column__heading">YEAR</div>
+                                                        <p>2017</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="project__slide__tags w-dyn-list">
+                                                <div role="list" class="tags__list w-dyn-items">
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">Canon 60D</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">55 - 250mm</div>
+                                                    </div>
+                                                    <div role="listitem" class="w-dyn-item">
+                                                        <div class="project__tag">f 7.2</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="project__slide__mobile__img__wrapper">
+                                            <img src="assets/insta6.jpg" loading="lazy" alt="Repose AMS" class="project__slide__mobile__img" />
+                                        </div>
+                                        <div class="project__slide__img__overlay"></div>
+                                        <img src="assets/insta6.jpg" loading="lazy" alt="Repose AMS" class="project__slide__bg is--image" />
+                                        <div class="project__slide__bg is--mobile"></div>
+                                    </div>
+                                    <div class="circle__btn__wrapper w-condition-invisible">
+                                        <a href="#" class="circle__button">See more works</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="section padding__top-bottom playground wf-section">
+                <div class="container padding">
+                    <div class="centered__text">
+                        <h4 class="playground__heading reveal">The Developer Side</h4>
+                        <p class="max--400 reveal">I love playing with new development tools and environments. Explore my concepts and experiments for more work</p>
+                    </div>
+                    <div class="w-embed">
+                        <style>
+                            .playground__image {
+                                pointer-events: none;
+                            }
+
+                            @media only screen and (min-width: 992px) {
+                                .playground__image:last-of-type {
+                                    transform: translateY(-80%);
+                                }
+                            }
+
+                            @media only screen and (max-width: 991px) {
+                                .playground__item:last-of-type {
+                                    border-bottom: 0.75px solid #1d1d1d;
+                                }
+                            }
+                        </style>
+                    </div>
+                    <div class="playground__wrapper w-dyn-list">
+                        <div role="list" class="playground__list w-dyn-items">
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://anjo.mobi/">
+                                        <div class="playground__item__name">ANJO </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/anjo.png" loading="lazy" alt="AIME LEON DORE MOBILES" class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://kaio-producoes.web.app/">
+                                        <div class="playground__item__name">KAIO PRODUCTIONS </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/kaioProductions.png" loading="lazy" alt="ORRIS JOURNAL CAROUSEL " class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://gitlab.com/tigulima/perguntartes-mobile-app">
+                                        <div class="playground__item__name">PERGUNTARTES </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/perguntArtes.png" loading="lazy" alt="ROMAN VLASOV CONCEPT #709" class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="#">
+                                        <div class="playground__item__name">RADYO </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/radyo.png" loading="lazy" alt="SAHANA WELLNESS JOURNAL" class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="#">
+                                        <div class="playground__item__name">TIGULIMA PRODUCTIONS </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/tigulimaProductions.png" loading="lazy" alt="GUBI FURNITURE PRODUCT PAGE" class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://www.instagram.com/yelow.box/">
+                                        <div class="playground__item__name">YELOW BOX </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/yelowBox.png" loading="lazy" alt="AIME LEON DORE PRODUCT " class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://gitlab.com/tigulima/jester-discord-bot">
+                                        <div class="playground__item__name">JESTER - Personal Project </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/jester.png" loading="lazy" alt="ORRIS HOMEPAGE " class="playground__image" />
+                            </div>
+                            <div data-scroll="1" data-w-id="75ff0bc8-b744-12f5-b05d-909bb8915e63" role="listitem" class="playground__item w-dyn-item">
+                                <div class="horizontal__line is--playground"></div>
+                                <div class="playground__info">
+                                    <a href="https://gitlab.com/tigulima/arch-dotfiles">
+                                        <div class="playground__item__name">LEMONY DOTFILES - Personal Project </div>
+                                    </a>
+                                    <div class="playground__item__toggle">
+                                        <div class="toggle__line"></div>
+                                        <div class="toggle__line horizontal"></div>
+                                    </div>
+                                </div>
+                                <img src="assets/distro.png" loading="lazy" alt="GUBI FEATURED PRODUCTS " class="playground__image" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="horizontal__line is--playground"></div>
+                </div>
+            </section>
+            <section class="section padding__top-bottom less--top wf-section">
+                <div class="container is--full__width">
+                    <div data-scroll="1" class="img__wrapper">
+                        <div data-scroll="1" class="img__cover"></div>
+                        <img src="assets/transitionAlt.JPG" loading="lazy" alt="GIF animation with mockups of designed screens." class="full__width--image" />
+                    </div>
+                </div>
+            </section>
+            <section class="section padding__bottom wf-section">
+                <div class="container padding less--mobile">
+                    <div class="_4__column__grid">
+                        <p id="w-node-eb7009c3-c54e-a4dd-bc36-a3ab14ed166f-0097a1a0" class="large__text desktop--only">Studied Computing at IFPR and now studying Computer science at UFPR.</p>
+                        <p id="w-node-_089f81df-4c67-104a-6da9-3654f1741341-0097a1a0" class="large__text mobile--only reveal">Studied Computing at IFPR – Ivaipora for four years then decided to continue gaining knowledge and moved to Curitiba to study Computer Science at UFPR – Curitiba.</p>
+                        <div id="w-node-_9841d9cc-304b-53e9-de3e-46d86f98aaaa-0097a1a0">
+                            <p class="medium__text reveal">Developed the very first website when I was 13, since then it has been a ton of self improvement. Currently working as a developer, helping companies to solve problems through effective design and experiences.</p>
+                            <div data-w-id="254b0fe9-f937-e68d-ba79-134f66ccfbad" class="regular__text larger margin reveal">These are some of the clients I’ve been lucky to work with:</div>
+                            <div class="w-dyn-list">
+                                <div role="list" class="_3__column__grid-small w-dyn-items">
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Vido Latino</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Q-Flux</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Up Ideias</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">IFPR</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Sonia Mendez</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Raquel Tamashiro</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Kaio Productions</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Yelow Box</h5>
+                                    </div>
+                                    <div role="listitem" class="w-dyn-item">
+                                        <h5 class="regular__text larger reveal-rotate">Tigulima Productions</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-w-id="6b5c9e3f-01ed-e2e1-c545-3f90893e8efb" class="horizontal__line hide--mobile"></div>
+                    <div class="_4__column__grid margin--mobile">
+                        <div id="w-node-_91c204b7-6417-03ab-bc16-8e5868db605b-0097a1a0" class="two__buttons hide--mobile">
+                            <div id="w-node-b9aab710-dabd-9b52-ffa5-38d239542114-0097a1a0" class="main__button is--small reveal-rotate">approach</div>
+                        </div>
+                        <div id="w-node-_2e4d811c-8911-3b16-3c63-84525e99e50e-0097a1a0" class="approach__item">
+                            <h2 id="w-node-_2e4d811c-8911-3b16-3c63-84525e99e50f-0097a1a0" class="approach__heading reveal-rotate">Mobile and Web Design</h2>
+                            <p id="w-node-_2e4d811c-8911-3b16-3c63-84525e99e511-0097a1a0" class="approach__p reveal-rotate">I always strive to create memorable experiences that are aesthetically appealing, functional and distinctive. Whether it&#x27;s inspiring marketing websites, convincing e-commerce sites or apps that are truly beneficial to users.</p>
+                        </div>
+                        <div id="w-node-c9d7946b-6597-3b9b-a623-379b330b7257-0097a1a0" class="approach__item is--middle">
+                            <h2 id="w-node-c9d7946b-6597-3b9b-a623-379b330b7258-0097a1a0" class="approach__heading reveal-rotate">Clean Code</h2>
+                            <p id="w-node-c9d7946b-6597-3b9b-a623-379b330b725a-0097a1a0" class="approach__p reveal-rotate">With my extensive experience in creating everything digital, I&#x27;m able to establish a strong foundation in the choice of algorithms, tools and functionalities to ensure that users perceive the brand and presence in a consistent way.</p>
+                        </div>
+                        <div id="w-node-_2d5510c4-0727-a6e4-caa7-1b145f726802-0097a1a0" class="approach__item">
+                            <h2 id="w-node-_2d5510c4-0727-a6e4-caa7-1b145f726803-0097a1a0" class="approach__heading reveal-rotate">Clear Goal</h2>
+                            <p id="w-node-_2d5510c4-0727-a6e4-caa7-1b145f726805-0097a1a0" class="approach__p reveal-rotate">By using my expertise as a developer, I make sure that a visual identity can be used to its full extent throughout all touchpoints in an accessible and user-friendly way. Not just timeless, but usable in todays digital world.</p>
+                        </div>
+                    </div>
+                    <div class="horizontal__line extra--padding"></div>
+                    <div class="_4__column__grid">
+                        <div id="w-node-f417ea96-371d-cef7-28c9-e2054e15933d-0097a1a0" class="two__buttons margin--bottom">
+                            <div id="w-node-f417ea96-371d-cef7-28c9-e2054e15933e-0097a1a0" class="main__button is--small reveal-rotate">Experience</div>
+                            <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159340-0097a1a0" class="main__button is--small reveal-rotate">Education</div>
+                        </div>
+                        <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159342-0097a1a0" class="w-dyn-list">
+                            <div role="list" class="_3__column__grid w-dyn-items">
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2020 –– Present</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Computer Science</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">UFPR, Curitiba</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2022 –– Present</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Introduction to Computer Science</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">Harvard, MA</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2021 –– Present</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Chinese</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">Unesp, SP</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2016 –– 2019</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Computing</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">IFPR, Ivaipora</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2016 –– 2019</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Photography</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">IFPR, Ivaipora</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2017 –– 2018</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Cinema</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">IFPR, Ivaipora</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2017 –– 2019</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Art Everywhere Project</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">IFPR, Ivaipora</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2016 –– 2017</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Arduino Fighter Robot Project</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">IFPR, Ivaipora</div>
+                                </div>
+                                <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159344-0097a1a0" role="listitem" class="experience__item w-dyn-item">
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159345-0097a1a0" class="regular__text reveal-rotate">2013–– 2013</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159346-0097a1a0" class="regular__text reveal-rotate">Computing</div>
+                                    <div id="w-node-f417ea96-371d-cef7-28c9-e2054e159347-0097a1a0" class="regular__text reveal-rotate">Bradesco Foundation</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="horizontal__line extra--padding"></div> -->
+                    <!-- <div class="_4__column__grid">
+                        <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b5415-0097a1a0" class="two__buttons margin--bottom">
+                            <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b5416-0097a1a0" class="main__button is--small reveal-rotate">awards</div>
+                            <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b5418-0097a1a0" class="main__button is--small reveal-rotate">recognitions</div>
+                        </div>
+                        <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541a-0097a1a0" class="hide--mobile w-dyn-list">
+                            <div role="list" class="_3__column__grid w-dyn-items">
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Personal Portfolio XD Behance</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Personal Portfolio - UI Behance</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Nest Seekers - Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Tais Kahatt - Awwwards</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Roman Vlasov – AIGA Gallery</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Tais Kahatt - CSS Design Awards</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Gubi – AIGA Gallery</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Roman Vlasov – Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Orris Paris – Behance Gallery</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">ALD – Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">ALD – Behance XD</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Vipp – Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Vipp – Behance XD</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Rowse – Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Rowse – Behance XD </h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Cold Laundry – Behance UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Cold Laundry – Behance XD</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">H.Weekend – Behance UX/UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">H.Weekend – Behance XD</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Gubi – Behance UX/UI</h6>
+                                </div>
+                                <div id="w-node-_2b2657de-2b85-0d00-2a0c-8457dd8b541c-0097a1a0" role="listitem" class="w-dyn-item">
+                                    <h6 class="regular__text is--award reveal-rotate">Rains – AIGA Gallery</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="w-node-_69152549-432f-befa-9796-8c4ba04f5aa8-0097a1a0" class="awards__list show--mobile">
+                            <div id="w-node-b7489257-7865-ce2e-c2f6-66f06cc9d5dd-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">Behance Gallery</h6>
+                                <div>x01</div>
+                            </div>
+                            <div id="w-node-_86fb06cd-907c-5179-d7c8-f17fe6590139-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">Awwwards</h6>
+                                <div>x01</div>
+                            </div>
+                            <div id="w-node-_8330db8b-0356-2ba7-e67c-e6252eb7c8e5-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">CSS Design Awards</h6>
+                                <div>x03</div>
+                            </div>
+                            <div id="w-node-_0993ac43-b3c2-0c64-0c70-bd045e328773-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">AIGA Gallery</h6>
+                                <div>x04</div>
+                            </div>
+                            <div id="w-node-c5fd9ae9-a8a1-f8ba-188e-5b8b772e8c23-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">Behance UI Gallery</h6>
+                                <div>x09</div>
+                            </div>
+                            <div id="w-node-_821abd61-bc93-a5e6-0e97-0799da50d11d-0097a1a0" class="award__item reveal">
+                                <h6 class="regular__text">Behance Adobe XD Gallery</h6>
+                                <div>x08</div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+            </section>
+            <div class="curved__end"></div>
+            <section id="footer" data-w-id="0e1fef75-fa66-7640-d72f-fd89a5564d15" class="section is--footer wf-section">
+                <div class="footer__wrapper">
+                    <div class="footer__dot"></div>
+                    <div class="container less--padding">
+                        <div class="footer__content">
+                            <div class="main__button is--white">have a project in mind?</div>
+                            <a href="mailto:thiago.imai@outlook.com" class="footer__link__wrapper w-inline-block">
+                                <div class="footer__link__text">Let’s talk</div>
+                                <img src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/622294fc192f2f37938875ff_Group.svg" loading="lazy" alt="" class="footer__link__img" />
+                            </a>
+                        </div>
+                        <div class="footer__line"></div>
+                        <div class="footer__bottom">
+                            <div class="footer__credits">
+                                <div data-scroll="1" id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d23-a5564d15" class="footer__credit">
+                                    <div class="footer__small is--credit">Developed by:</div>
+                                    <a href="#top" target="_blank" class="footer__link">Thiago Imai</a>
+                                </div>
+                                <div data-scroll="1" id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d28-a5564d15" class="footer__credit">
+                                    <div class="footer__small is--credit">Inspired bY:</div>
+                                    <a href="#" class="footer__no--link">Martin Briceno</a>
+                                </div>
+                            </div>
+                            <div class="footer__mobile__content">
+                                <div id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d2e-a5564d15" class="footer__small is--center">PORTFOLIO 2022✺</div>
+                                <div id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d30-a5564d15" class="footer__link">works from</div>
+                                <div id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d32-a5564d15" class="footer__link">2020 – 2022</div>
+                                <div id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d34-a5564d15" class="footer__link">
+                                    <a href="mailto:thiago.imai@outlook.com">contact me</a>
+                                </div>
+                            </div>
+                            <div data-scroll="1" class="footer__socials">
+                                <div class="footer__small is--center">Socials:</div>
+                                <div class="footer__socials__wrapper">
+                                    <a id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d41-a5564d15" href="https://www.linkedin.com/in/tigulima/" target="_blank" class="footer__link">Linkedin</a>
+                                    <a id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d3b-a5564d15" href="https://gitlab.com/tigulima" target="_blank" class="footer__link">Gitlab</a>
+                                    <a id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d3d-a5564d15" href="https://twitter.com/Tigulima" target="_blank" class="footer__link">Twitter</a>
+                                    <a id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d3f-a5564d15" href="https://www.instagram.com/thiago.imai.l/" target="_blank" class="footer__link">Instagram</a>
+                                </div>
+                            </div>
+                            <div class="footer__details hide--mobile">
+                                <div data-scroll="1" id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d44-a5564d15">
+                                    <div class="footer__small">Works from:</div>
+                                    <div class="footer__no--link">2020 – 2022</div>
+                                </div>
+                                <a href="#top" id="w-node-_0e1fef75-fa66-7640-d72f-fd89a5564d49-a5564d15" class="footer__link top">Back to top</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="reveal"></div>
+                    <div class="reveal-rotate"></div>
+                </div>
+            </section>
+        </div>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+        <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=61ffb7e3a4bdb5613297a19f" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+        <script src="https://uploads-ssl.webflow.com/61ffb7e3a4bdb5613297a19f/js/webflow.5cedd10bf.js" type="text/javascript"></script>
+        <!--[if lte IE 9]>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script>
+		<![endif]-->
+        <script>
+            // page transition
+            let transitionTrigger = $(".transition-trigger");
+            let introDurationMS = 1800;
+            let exitDurationMS = 1800;
+            let excludedClass = "no-transition";
+            // On Page Load
+            if (transitionTrigger.length > 0) {
+                transitionTrigger.click();
+                $("body").addClass("no-scroll-transition");
+                setTimeout(() => {
+                    $("body").removeClass("no-scroll-transition");
+                }, introDurationMS);
+            }
+            // On Link Click
+            $("a").on("click", function(e) {
+                if ($(this).prop("hostname") == window.location.host && $(this).attr("href").indexOf("#") === -1 && !$(this).hasClass(excludedClass) && $(this).attr("target") !== "_blank" && transitionTrigger.length > 0) {
+                    e.preventDefault();
+                    $("body").addClass("no-scroll-transition");
+                    let transitionURL = $(this).attr("href");
+                    transitionTrigger.click();
+                    setTimeout(function() {
+                        window.location = transitionURL;
+                    }, exitDurationMS);
+                }
+            });
+            // On Back Button Tap
+            window.onpageshow = function(event) {
+                if (event.persisted) {
+                    window.location.reload()
+                }
+            };
+            // Hide Transition on Window Width Resize
+            setTimeout(() => {
+                $(window).on("resize", function() {
+                    setTimeout(() => {
+                        $(".transition").css("display", "none");
+                    }, 50);
+                });
+            }, introDurationMS);
+        </script>
+        <script>
+            // custom classes for cursor
+            $('.footer__link__wrapper').on('mouseenter mouseleave', function() {
+                $('.cursor__dot').toggleClass('is--mail');
+                $('.cursor__text--mail').toggleClass('visible');
+            });
+            $('.project__link').on('mouseenter mouseleave', function() {
+                $('.cursor__dot').toggleClass('is--case');
+                $('.cursor__text--case').toggleClass('visible');
+            });
+            $('.text__link , .footer__link , .nav__logo , .button , .nav__btn').on('mouseenter mouseleave', function() {
+                $('.cursor__dot').toggleClass('is--text__link');
+            });
+        </script>
+    </body>
+</html>
