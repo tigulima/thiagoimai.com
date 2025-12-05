@@ -6,84 +6,39 @@
 	<title>Subtract</title>
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;700&display=swap" rel="stylesheet">
 	<link rel="icon" type="image/png" href="./assets/favicon.svg">
-
-	<style>
-		@font-face {
-			font-family: 'SF Pro';
-			src: url('fonts/SF-Pro.ttf') format('truetype');
-		}
-		
-		body {
-			margin: 0;
-			padding: 0;
-		}
-		
-		.feedback {
-			font-family: 'Inter', sans-serif;
-			font-size: 14px;
-			font-weight: 300;
-			margin-top: 10px;
-			padding: 10px 20px;
-			border-radius: 5px;
-			display: none;
-		}
-		
-		.feedback.success {
-			background-color: #4CAF50;
-			color: white;
-			display: block;
-		}
-		
-		.feedback.error {
-			background-color: #f44336;
-			color: white;
-			display: block;
-		}
-		
-		/* Fade-in animation styles */
-		.fade-in {
-			opacity: 0;
-			transform: translate3d(0, 20px, 0);
-			transition: opacity 0.8s ease-out, transform 0.8s ease-out;
-		}
-		
-		.fade-in.visible {
-			opacity: 1;
-			transform: translate3d(0, 0, 0);
-		}
-	</style>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<div class="view" style="width: 100vw; height: 50vh; background-color: #ECECEC; position: absolute; top: 0; left: 0;">
-		<div class="view-content" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+	<div class="view view-top">
+		<div class="logo-container">
 			<!-- SUBTRACT logo -->
-			<img src="assets/SUBTRACT.svg" alt="SUBTRACT" class="fade-in" data-fade-delay="100" style="width: auto; height: 150px;">
+			<img src="assets/SUBTRACT.svg" alt="SUBTRACT" class="logo fade-in" data-fade-delay="100">
 		</div>
 	</div>
-	<div class="view" style="width: 100vw; height: 50vh; background-color: #FFFFFF; position: absolute; top: 50%; left: 0;">
-		<div class="view-content" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 50%; padding-top: 5vh;">
+	<div class="view view-bottom">
+		<div class="content-container">
 			<!-- a centered title with SF Pro Condensed Ultralight font -->
-			<div class="text" style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%;">
-				<text class="fade-in" data-fade-delay="800" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Can one have a life without <span style="text-decoration: line-through; opacity: 0.5;">bullshit</span> subscriptions?</text>
-				<text class="fade-in" data-fade-delay="1000" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0;">Spend your money on what matters</text>
-				<text class="fade-in" data-fade-delay="1200" style="font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 300; text-align: center; margin: 0; padding-top: 5vh;">Enter the wait list</text>
+			<div class="text-container">
+				<text class="text-item fade-in" data-fade-delay="800">Can one have a life without <span style="text-decoration: line-through; opacity: 0.5;">bullshit</span> subscriptions?</text>
+				<text class="text-item fade-in" data-fade-delay="1000">Spend your money on what matters</text>
+				<text class="text-item fade-in" data-fade-delay="1200">Enter the wait list</text>
 			</div>
 			<!-- a centered subtitle with SF Pro Condensed Ultralight font -->
-			 <div class="button fade-in" data-fade-delay="1500" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding-top: 5vh;">
-				<div style="display: flex; gap: 10px;">
-					<input id="emailInput" type="email" name="email" placeholder="Enter your email" style="background-color: #ECECEC; border: none; color: #000000; padding: 10px 20px; width: 200px;">
-					<button id="submitButton" style="background-color: #323232; color: #ECECEC; border: none; padding: 10px 20px; text-align: center; margin: 0; cursor: pointer;">SUBMIT</button>
+			<div class="button-container fade-in" data-fade-delay="1500">
+				<div class="input-group">
+					<input id="emailInput" type="email" name="email" placeholder="Enter your email" class="email-input">
+					<button id="submitButton" class="submit-button">SUBMIT</button>
 				</div>
 				<div id="feedback" class="feedback"></div>
-			 </div>
+			</div>
 		</div>
-		<!-- position absloute bottom right of the page -->
-		<div class="view-content" style="position: absolute; bottom: 0; right: 0; display: flex; justify-content: center; align-items: center; flex-direction: row; gap: 15px; padding: 10px;">
+		<!-- position absolute bottom right of the page -->
+		<div class="footer-links">
 			<!-- <text style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer;">What the f*ck are you talking about?</text> -->
-			 <!-- a link to the about me page -->
-			 <a href="../index.html" class="fade-in" data-fade-delay="1700" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">About Me</a>
-			<a href="terms.html" class="fade-in" data-fade-delay="1900" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">Terms and Conditions</a>
-			<a href="privacy.html" class="fade-in" data-fade-delay="2200" style="font-family: 'Inter', sans-serif; font-size: 12px; text-align: center; margin: 0; cursor: pointer; color: #000000; text-decoration: none;">Privacy Policy</a>
+			<!-- a link to the about me page -->
+			<a href="../index.html" class="footer-link fade-in" data-fade-delay="1700">About Me</a>
+			<a href="terms.html" class="footer-link fade-in" data-fade-delay="1900">Terms and Conditions</a>
+			<a href="privacy.html" class="footer-link fade-in" data-fade-delay="2200">Privacy Policy</a>
 		</div>	
 	</div>
 	
